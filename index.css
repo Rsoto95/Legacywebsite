@@ -1,0 +1,25 @@
+ h1{
+     position: absolute;
+     z-index: 11;
+     margin-left: 30%;
+     margin-top: 40%;
+     font-size: 5vw;
+     background-color:darkturquoise;
+     display: block;
+     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+     
+ }
+
+ img{
+     position:absolute;
+     z-index: 21;
+     margin-left: 25%;
+     margin-top: 5%;
+    width: 50%;
+    display: block;
+ }
+
+ body{
+     background-image: url(../Imagenes/Maintance\ Background.png), linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+     background-size: cover;
+ }
